@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883074967201",
+    "project_id": "movex-6f57c",
+    "storage_bucket": "movex-6f57c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883074967201:android:08722c520fd764f02df2e0",
+        "android_client_info": {
+          "package_name": "com.example.movex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrdxicsoQFvJbqDSOnCy9bKv69ZZXc3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

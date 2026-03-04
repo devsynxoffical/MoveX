@@ -2,12 +2,12 @@
   "project_info": {
     "project_number": "883074967201",
     "project_id": "movex-6f57c",
-    "storage_bucket": "movex-6f57c.firebasestorage.app"
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:883074967201:android:08722c520fd764f02df2e0",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.movex"
         }
